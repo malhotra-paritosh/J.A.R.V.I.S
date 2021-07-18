@@ -1,0 +1,5 @@
+fastapi=0.65.3
+fastapi-users=6.1.0
+aiofiles=0.7.0
+aiosqlite=0.17.0
+ormar=0.10.14

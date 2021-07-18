@@ -1,0 +1,6 @@
+/Backend/__pycache__/*
+/Backend/routers/__pycache__/*
+*.jpg
+*.jpeg
+*.png
+*.db
